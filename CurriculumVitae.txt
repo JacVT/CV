@@ -1,0 +1,32 @@
+Datos personales
+Nombre(s): Maximiliano
+Apellido Paterno: Zavala
+Apellido Materno: Bermudez
+Edad: 21
+Genero: Hombre
+Fotografia:
+menos.png
+Dirección: Oriente 15
+Ciudad: Orizaba
+Estado: Veracruz
+Móvil: 2779840223
+Correo electrónico: max@gmail.com
+Estado civil:Soltero
+Datos escolares
+Grado máximo de estudios: Bachillerato
+Nombre de la institución: CONALEP ORIZABA
+Tiempo de egresado: 3 años
+Nombre de la especialidad o carrera: Informatica
+Promedio escolar: 94.0
+Titulado: 
+Idiomas manejados: Ingles intermedio
+Datos laborales
+Ultimo puesto desempeñado: estudiante
+Institución o empresa: Intituto tec. de Orizaba
+Contacto: 29398392
+Tiempo laborado: 3 años
+Otros datos
+Cursos o diplomados:
+Cursos online sobre bases de datos
+Intereses, aficiones y habilidades:
+Escuchar música, programar, leer manga
